@@ -1,8 +1,7 @@
 # Content Based Movie-Recommendation-System
 
 In this project I used a Content Based Recommender system to recommend movies when you specify a movie name.
-Content Based Recommender System recommends movies similar to the movie user likes and analyses the sentiments on the reviews given by the user for that movie.
-
+Content Based Recommender System recommends movies similar to the movie user likes 
 The details of the movies(title, genre, runtime, rating, poster, etc) are fetched using an API by TMDB, https://www.themoviedb.org/documentation/api, and using the IMDB id of the movie in the API
 
 ## Similarity Score : 
